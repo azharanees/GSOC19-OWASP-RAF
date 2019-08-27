@@ -60,15 +60,13 @@ Currently the following features are supported:
 **Proposed summary as per proposal**:
 
 Building an API for the dashboard which will help the testers to Assess the Risk by
-uploading the result from their SAST tools. There are many branches to the SAST tool projects provided by OWASP mainly, Building an API for the dashboard which will help the testers to Assess the Risk by uploading the result from their SAST tools. There are many branches to the SAST tool projects
-provided by OWASP mainly,
+uploading the result from their SAST tools. There are many branches to the SAST tool projects provided by OWASP mainly, 
 - OWASP SonarQube Project
 - OWASP Orizon Project
 - OWASP LAPSE Project
 - OWASP O2 Platform
 - OWASP WAP-Web Application Protection
-So Implementing the API which provides relevant inputs for Risk Rating which will be
-staged in the dashboard with graphs and charts and which provides access to SAST tools
+Building an API for the dashboard which will help the testers to Assess the Risk by uploading the result from their SAST tools, So Implementing the API which provides relevant inputs for Risk Rating which will be staged in the dashboard with graphs and charts and which provides access to SAST tools
 
 ### Work done
 
